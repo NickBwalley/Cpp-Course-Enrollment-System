@@ -1,1 +1,1 @@
-Simple CPP Course Enrollment System 
+A Simple CPP Self-Course-Enrollment System
